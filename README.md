@@ -14,9 +14,11 @@
 
 ## Skills
 
-* C++
+* C++ (DxLib,DirectX11)
 * C#
 * C
 * HTML,CSS,JS
 * Python
+* Ruby
+* TypeScript,React
 
