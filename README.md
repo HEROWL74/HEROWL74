@@ -9,7 +9,7 @@
 
 ## Social Media
 
-* [Twitter](https://x.com/HRAKProgrammer)
+* [X(Twitter)](https://x.com/HRAKProgrammer)
 * [Instagram](https://www.instagram.com/hero.wl74/?next=%2Fhero.wl74%2F)
 
 ## Skills
