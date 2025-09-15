@@ -14,7 +14,7 @@
 
 ## Skills
 
-* C++ (DxLib,Siv3d,DirectX11)
+* C++ (DxLib,Siv3d,DirectX11,DirectX12)
 * C#
 * C
 * HTML,CSS,JS
