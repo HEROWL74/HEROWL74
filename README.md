@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hero74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hero74&layout=donut&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HEROWL74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROWL74&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
 
 
