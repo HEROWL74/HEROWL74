@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Lua-0000FF?logo=lua&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-CMake-red?logo=cmake&logoColor=none"/>
 </p>
 
 ---
