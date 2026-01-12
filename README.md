@@ -31,16 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HEROWL74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROWL74&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
 ### 🌐 Social
 <p align="center">
   <a href="https://x.com/HRAKProgrammer"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?logo=x&logoColor=white"/></a>
